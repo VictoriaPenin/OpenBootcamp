@@ -1,0 +1,23 @@
+{
+  "name": "ejercicios-para-subir",
+  "version": "1.0.0",
+  "description": "ejercicios practica curso js openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaPenin/OpenBootcamp.git"
+  },
+  "keywords": [
+    "curso-js"
+  ],
+  "author": "victoria penin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictoriaPenin/OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/VictoriaPenin/OpenBootcamp#readme"
+}
